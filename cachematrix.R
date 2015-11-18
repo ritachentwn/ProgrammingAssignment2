@@ -29,4 +29,4 @@ cacheSolve <- function(x, ...) {
 
 
 mm <- makeCacheMatrix(matrix(c(1:4), nrow = 2, byrow = TRUE))
-cacheSolve(mm)
+cacheSolve(mm) 
